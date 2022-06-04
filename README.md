@@ -1,0 +1,1 @@
+# School_Practice_Django_2022_
